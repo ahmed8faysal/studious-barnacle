@@ -33,4 +33,4 @@ Each practical exam or topic might have its own dedicated folder with the necess
 This project is licensed under the MIT License.
 
 ---
-**Note:** This repo is specially for HSC '26 Batch Student
+**Note:** This repo is specially for HSC '26 Batch Student.
